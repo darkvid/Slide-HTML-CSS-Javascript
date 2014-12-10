@@ -17,3 +17,7 @@
 .slide .img2, .slide .img3 {
     display: none;
 }
+
+figure{
+    margin: 0;
+}
