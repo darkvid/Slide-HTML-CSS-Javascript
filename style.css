@@ -1,0 +1,19 @@
+.slide{
+    border: .5em solid #ed9ce3;
+    width: 600px;
+    height: 300px;
+    margin: 2% auto;
+    border-radius: .5em;
+    box-shadow: 10px 10px 5px #888;
+    position: relative;
+}
+ 
+.slide img{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+}
+ 
+.slide .img2, .slide .img3 {
+    display: none;
+}
